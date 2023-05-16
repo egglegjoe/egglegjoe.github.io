@@ -15,7 +15,6 @@ function random() {
     document.getElementById('img').style.width = '100%'
   } else {
     document.getElementById('vid').src = links[rand]
-    document.getElementById('vid').play()
     document.getElementById('img').src = ''
     document.getElementById('img').style.height = '0%'
     document.getElementById('img').style.width = '0%'
