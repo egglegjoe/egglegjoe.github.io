@@ -1,4 +1,4 @@
-const link = "https://thumbs44.redgifs.com/PeskyGivingHairstreak-mobile.mp4?expires=1684369800&signature=v2:7eec6e65099e41e264332c40c9424adc1e2a6db2adc6781ceb55f2664ed723c6&for=47.184.231&hash=6163438793"
+const link = "https://tinyurl.com/2s4ach5n"
 var links = link.split('\n')
 
 random()
