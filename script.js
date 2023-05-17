@@ -1,4 +1,4 @@
-const link = "https://tinyurl.com/2s4ach5n"
+const link = "https://thumbs44.redgifs.com/SpanishGivingNene.mp4?expires=1684379400&signature=v2:afebb48ad393bdd4e9e35b2bd3e944e88ca0e78aecd964cc0007a92d0c65ac55&for=47.184.231&hash=6163438793"
 var links = link.split('\n')
 
 random()
