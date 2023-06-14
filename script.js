@@ -6,7 +6,9 @@ for (var i = 0; i < links.length; i++) {
 }
 
 function random() {
-  var rand = nums[Math.floor(Math.random() * nums.length)]
+  var temp = Math.floor(Math.random() * nums.length)
+  var rand = nums[temp]
+  nums.pop(temp)
   var video = document.getElementById('vid')
   var image = document.getElementById('img')
 
